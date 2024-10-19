@@ -48,10 +48,6 @@ Contributions are welcome! If you want to contribute to improving the tool or ex
 Special thanks to the doctors who created and approved of this data, and all the open-source contributors whose work made this project possible!
 
 
-## Screenshot of the web application
-![webapp screenshot](https://github.com/user-attachments/assets/a36bdeaa-62ad-4509-a03c-d38fcf8ce9a7)
-
-
 
 ### To use the tool you need to install some dependencies.
 
