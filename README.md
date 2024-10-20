@@ -40,12 +40,6 @@ SVC
 Jupyter Notebook,
 Git , Colab 
  
-## 🤝 Contributing
-Contributions are welcome! If you want to contribute to improving the tool or expanding its capabilities, feel free to create a pull request.
-
-
-## 🙌 Acknowledgements
-Special thanks to the doctors who created and approved of this data, and all the open-source contributors whose work made this project possible!
 
 
 
