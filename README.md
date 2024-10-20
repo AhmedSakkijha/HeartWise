@@ -1,7 +1,7 @@
 # HeartWise
 
-# 🧠 Early Heart Attack Risk Detection
-Detect  Heart Attack's Disease in its critical stages
+# Heart Attack Risk Detection
+Detect Heart Attack's Disease
 ## 👥 Our Team
 * Ahmed Sakkijha
 * Nahla bader 
@@ -11,7 +11,7 @@ Detect  Heart Attack's Disease in its critical stages
 
 
 ## 🎯 Why This Project?
-Heart Attacks's  affects millions worldwide, often going undiagnosed until it has significantly progressed. Early diagnosis is key to improving the quality of life and enabling better treatment options. This project focuses on bridging that gap by offering a reliable detection tool that can assist healthcare professionals in identifying cases in the early stages of advanced Alzheimer's.
+Heart Attacks's affects millions worldwide, often going undiagnosed until it has significantly progressed. Early diagnosis is key to improving the quality of life and enabling better treatment options. This project focuses on bridging that gap by offering a reliable detection tool that can assist healthcare professionals in identifying cases in the early stages of advanced Alzheimer's.
 
 ## ⚙️ How It Works
 ### Data Collection
