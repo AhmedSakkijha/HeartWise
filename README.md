@@ -18,7 +18,7 @@ Heart Attacks's affects millions worldwide, often going undiagnosed until it has
 We used a public dataset found on [kaggle.com](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset), of course this data was reviewed by doctors who agreed on its quality.
 
 ### Model Training
-Using machine learning algorithms, such as SVC and RandomForestClassifier , the model is trained to detect Heart Attacks's disease patterns.
+Using machine learning algorithms, such as SVM (SVC) and RandomForestClassifier , the model is trained to detect Heart Attacks's disease patterns.
 
 ### Evaluation
 The model's performance is evaluated using metrics like accuracy, cross_val_score, ensuring a balance between correctly detecting the disease and minimizing false positives.
