@@ -1,7 +1,6 @@
 # HeartWise
 
 # Heart Attack Risk Detection
-Detect Heart Attack's Disease
 
 # Demo 
 https://github.com/user-attachments/assets/f65aa7a3-4260-4f0d-8d2c-f550e695c506
